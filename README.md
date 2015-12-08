@@ -1,7 +1,7 @@
 # AhoCorasick
 Aho–Corasick algorithm is a string searching algorithm invented by Alfred V. Aho and Margaret J. Corasick.
 
-# Links to Learn
+## Links to Learn
 * [RU E-MAXX](http://e-maxx.ru/algo/aho_corasick)
 * [RU IFMO](http://neerc.ifmo.ru/wiki/index.php?title=Алгоритм_Ахо-Корасик)
 * [RU HABRAHABR](http://habrahabr.ru/post/198682/)

@@ -8,3 +8,8 @@ Aho–Corasick algorithm is a string searching algorithm invented by Alfred V. A
 * [EN IVANK](http://blog.ivank.net/aho-corasick-algorithm-in-as3.html)
 * [EN PREFIX TREE(TRIE)](https://sites.google.com/site/indy256/algo/trie)
 * [EN DZONE](https://dzone.com/articles/algorithm-week-aho-corasick)
+
+## Examples of tests
+* TestFX for JavaFX
+* HtmlUnit for WebService
+* JUnit for algorithm
